@@ -4,9 +4,7 @@ The first part of the project contains a digital Stop Watch which keeps on getti
 
 # Languages: 
 ````
-```
 HTML, CSS, JavaScript
-```
 ````
 
 # Features:
